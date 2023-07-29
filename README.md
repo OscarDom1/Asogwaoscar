@@ -10,15 +10,18 @@
 Here are some fun facts about me:
 
 🌍  I'm based in Nigeria <br>
-🚀  I'm currently looking for a Job as a Frontend Developer / Laravel developer
-🧠  I'm docile to learning and advancing my knowledge
-🤝  I'm open to collaborating with you.
-🎵  I love music/sports
+🚀  I'm currently looking for a Job as a Frontend / Laravel developer <br>
+🧠  I'm docile to learning and advancing my knowledge <br>
+🤝  I'm open to collaborating with you. <br>
+🎵  I love music/sports <br>
 
 
 📩 Connect with me!
 <p align="left">
 <a href="https://twitter.com/snr_oscar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="snr_oscar" height="30" width="40" /></a>
+</p>
+<p align="left">
+<a href="https://www.linkedin.com/in/chinedu-asogwa-458b451ba/" target="blank"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
