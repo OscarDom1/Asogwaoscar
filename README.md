@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asogwa Chinedu</h1>
-<h3>A skilled and versatile Software Developer with a strong focus on Frontend Web Development using React.js and Tailwind CSS. Equipped with extensive knowledge in PHP and Laravel, combining the best of both worlds to create dynamic and user-friendly web applications. A creative problem solver, dedicated to delivering high-quality code and exceptional user experiences.h3>
+<h3>A skilled and versatile Software Developer with a strong focus on Frontend Web Development using React.js and Tailwind CSS. Equipped with extensive knowledge in PHP and Laravel, combining the best of both worlds to create dynamic and user-friendly web applications. A creative problem solver, dedicated to delivering high-quality code and exceptional user experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asogwaoscar&label=Profile%20views&color=0e75b6&style=flat" alt="asogwaoscar" /> </p>
 
@@ -7,9 +7,16 @@
 
 - 📫 How to reach me **elvisscott18@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
+Here are some fun facts about me:
 
-<h3 align="left">Connect with me:</h3>
+🌍  I'm based in Nigeria
+🚀  I'm currently looking for a Job as a Frontend Developer / Laravel developer
+🧠  I'm docile to learning and advancing my knowledge
+🤝  I'm open to collaborating with you.
+🎵  I love music/sports
+
+
+📩 Connect with me!
 <p align="left">
 <a href="https://twitter.com/snr_oscar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="snr_oscar" height="30" width="40" /></a>
 </p>
