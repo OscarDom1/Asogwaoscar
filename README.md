@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asogwa Chinedu</h1>
-<h3 align="center">A passionate frontend developer/Learner</h3>
+<h3>A skilled and versatile Software Developer with a strong focus on Frontend Web Development using React.js and Tailwind CSS. Equipped with extensive knowledge in PHP and Laravel, combining the best of both worlds to create dynamic and user-friendly web applications. A creative problem solver, dedicated to delivering high-quality code and exceptional user experiences.h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asogwaoscar&label=Profile%20views&color=0e75b6&style=flat" alt="asogwaoscar" /> </p>
 
