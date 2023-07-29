@@ -9,7 +9,7 @@
 
 Here are some fun facts about me:
 
-🌍  I'm based in Nigeria
+🌍  I'm based in Nigeria <br>
 🚀  I'm currently looking for a Job as a Frontend Developer / Laravel developer
 🧠  I'm docile to learning and advancing my knowledge
 🤝  I'm open to collaborating with you.
