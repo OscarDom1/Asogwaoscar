@@ -21,7 +21,7 @@ Here are some fun facts about me:
 <a href="https://twitter.com/snr_oscar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="snr_oscar" height="30" width="40" /></a>
 </p>
 <p align="left">
-<a href="https://www.linkedin.com/in/chinedu-asogwa-458b451ba/" target="blank"></a>
+<a href="https://www.linkedin.com/in/chinedu-asogwa-458b451ba/" target="blank"><img align="center" src="https://tse3.mm.bing.net/th?id=OIP.x0YtDAmlVimvaHtAUvUjngHaFQ&pid=Api&P=0&h=220" alt="snr_oscar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
